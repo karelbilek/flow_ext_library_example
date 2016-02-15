@@ -1,0 +1,22 @@
+{
+  "name": "flow_ext_library_example",
+  "version": "1.0.0",
+  "description": "example for issue reporting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runn1ng/flow_ext_library_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runn1ng/flow_ext_library_example/issues"
+  },
+  "homepage": "https://github.com/runn1ng/flow_ext_library_example#readme",
+  "dependencies": {
+    "bitcoinjs-lib": "^2.2.0"
+  }
+}
